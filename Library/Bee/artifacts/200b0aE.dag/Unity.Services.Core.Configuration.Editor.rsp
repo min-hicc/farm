@@ -350,7 +350,9 @@
 "Library/PackageCache/com.unity.services.core@1.6.0/Editor/Core/Configuration/ConfigurationBuilder.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Editor/Core/Configuration/IConfigurationProvider.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Editor/Core/Configuration/ProjectConfigurationBuilder.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Editor/Core/Configuration/ProjectConfigurationBuildInjectorWithPlayerProcessor.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Editor/Core/Configuration/ProjectConfigurationBuildInjectorWithReport.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Editor/Core/Configuration/Utils/IoUtils.cs"
 -langversion:9.0
 
 /deterministic

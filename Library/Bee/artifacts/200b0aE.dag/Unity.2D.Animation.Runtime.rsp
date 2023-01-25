@@ -348,8 +348,10 @@
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/Bone.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/BufferManager.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/NativeArrayHelper.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/NativeCustomSlice.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SkeletonAsset.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteLib/SpriteLibrary.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteLib/SpriteLibraryAsset.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteLib/SpriteLibraryData.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteLib/SpriteLibrarySourceAsset.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteLib/SpriteLibraryUtility.cs"
@@ -359,6 +361,8 @@
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteSkinComposite.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteSkinUpdateHelper.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/SpriteSkinUtility.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/TransformAccessJob.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/Runtime/UpdateBoundsJob.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

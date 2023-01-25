@@ -357,6 +357,7 @@
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Metrics/Metrics.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Metrics/MetricsFactory.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Models/CachedPayload.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Models/Diagnostics/Diagnostic.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Models/Diagnostics/DiagnosticsPayload.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Models/Interfaces/ITelemetryEvent.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Models/Interfaces/ITelemetryPayload.cs"
@@ -371,6 +372,8 @@
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/TelemetryConfig.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Utils/CacheExtensions.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Utils/FactoryUtils.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Utils/TagKeys.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Utils/TelemetryConfigKeys.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Telemetry/Utils/TelemetryUtils.cs"
 -langversion:9.0
 

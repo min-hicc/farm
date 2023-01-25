@@ -345,6 +345,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstAotCompiler.cs"
+"Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstAotSettings.cs"
 "Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstDisassembler.Core.ARM64.cs"
 "Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstDisassembler.Core.cs"
 "Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstDisassembler.Core.LLVMIR.cs"

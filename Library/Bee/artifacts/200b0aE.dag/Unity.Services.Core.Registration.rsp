@@ -349,6 +349,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Registration/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Registration/CorePackageInitializer.cs"
 -langversion:9.0
 
 /deterministic

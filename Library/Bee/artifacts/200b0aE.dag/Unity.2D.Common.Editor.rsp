@@ -348,10 +348,12 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.2d.common@6.0.6/Editor/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.2d.common@6.0.6/Editor/ImagePacker/ImagePacker.cs"
 "Library/PackageCache/com.unity.2d.common@6.0.6/Editor/ImagePacker/ImagePackerDebugEditor.cs"
 "Library/PackageCache/com.unity.2d.common@6.0.6/Editor/ImagePacker/ImagePackNode.cs"
 "Library/PackageCache/com.unity.2d.common@6.0.6/Editor/ImagePacker/Jobs/FindTightRectJob.cs"
 "Library/PackageCache/com.unity.2d.common@6.0.6/Editor/InspectorUtils.cs"
+"Library/PackageCache/com.unity.2d.common@6.0.6/Editor/TextureGenerator/TextureGeneratorHelper.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

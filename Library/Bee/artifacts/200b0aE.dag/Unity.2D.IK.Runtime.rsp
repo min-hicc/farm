@@ -344,11 +344,14 @@
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/FabrikSolver2D.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/IKChain2D.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/IKManager2D.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/IKManager2DEditorData.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/IKUtility.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/LimbSolver2D.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/Solver2D.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/Solver2DMenuAttribute.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/Solvers/CCD2D.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/Solvers/FABRIK2D.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Runtime/Solvers/Limb.cs"
 -langversion:9.0
 
 /deterministic

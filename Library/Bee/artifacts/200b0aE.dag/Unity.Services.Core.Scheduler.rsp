@@ -347,6 +347,7 @@
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Scheduler/ScheduledInvocation.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Scheduler/ScheduledInvocationComparer.cs"
 "Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Scheduler/TimeProvider/ITimeProvider.cs"
+"Library/PackageCache/com.unity.services.core@1.6.0/Runtime/Scheduler/TimeProvider/UtcTimeProvider.cs"
 -langversion:9.0
 
 /deterministic

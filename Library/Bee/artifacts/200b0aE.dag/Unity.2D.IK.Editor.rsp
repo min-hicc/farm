@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Editor/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Editor/IKEditorManager.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Editor/IKGizmos.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Editor/Inspectors/CCDSolver2DEditor.cs"
 "Library/PackageCache/com.unity.2d.animation@7.0.9/IK/Editor/Inspectors/FabrikSolver2DEditor.cs"

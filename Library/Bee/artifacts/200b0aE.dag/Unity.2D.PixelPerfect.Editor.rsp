@@ -347,6 +347,7 @@
 "Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/Editor/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/Editor/CinemachinePixelPerfectEditor.cs"
 "Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/Editor/Converter/U2DToURPPixelPerfectConverter.cs"
+"Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/Editor/ObjectMenuCreation/GameObjectCreation.cs"
 "Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/Editor/PixelPerfectCameraEditor.cs"
 -langversion:9.0
 
