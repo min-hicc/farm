@@ -1,6 +1,6 @@
-# farm
+# farmgit
 
 ASD:FKASJDLFKaj
 
 
-no i changed it 
+no igit filter-branch --index-filter 'git rm -r --cached --ignore-unmatch <file/dir>' HEAD changed it 
